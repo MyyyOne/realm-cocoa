@@ -11,7 +11,7 @@ x.x.x Release notes (yyyy-MM-dd)
 
 ### Bugfixes
 
-* None.
+* Xcode playground in Swift release zip now runs successfully.
 
 1.0.0 Release notes (2016-05-25)
 =============================================================
